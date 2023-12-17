@@ -1,8 +1,8 @@
 # Memory Game
 
 ## CONTEÚDOS
--- Introdução
--- Criando a base do projeto
+- Introdução
+- Criando a base do projeto
 - Começando a criar seu CSS estilizado
 - Criando a estilização do game
 - Criando os cards dinamicamente
